@@ -49,6 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Utility\RunBlurTester.bat" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SuperfastBlur\SuperfastBlur.csproj">
